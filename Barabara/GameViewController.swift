@@ -76,6 +76,7 @@ class GameViewController: UIViewController {
         let highScore2: Int = saveData.integer(forKey: "score2")
         let highScore3: Int = saveData.integer(forKey: "score3")
         
+//        ハイスコアの更新
         if score > highScore1 {
             saveData.set(score, forKey: "score1")
             saveData.set(highScore1, forKey: "score2")

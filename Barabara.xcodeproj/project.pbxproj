@@ -63,12 +63,12 @@
 				552C17CE2BE122DD007F2C95 /* AppDelegate.swift */,
 				552C17D02BE122DD007F2C95 /* SceneDelegate.swift */,
 				552C17D22BE122DD007F2C95 /* ViewController.swift */,
+				552C17E22BE13066007F2C95 /* GameViewController.swift */,
+				552C17E42BE1307A007F2C95 /* RankingViewController.swift */,
 				552C17D42BE122DD007F2C95 /* Main.storyboard */,
 				552C17D72BE122DF007F2C95 /* Assets.xcassets */,
 				552C17D92BE122DF007F2C95 /* LaunchScreen.storyboard */,
 				552C17DC2BE122DF007F2C95 /* Info.plist */,
-				552C17E22BE13066007F2C95 /* GameViewController.swift */,
-				552C17E42BE1307A007F2C95 /* RankingViewController.swift */,
 			);
 			path = Barabara;
 			sourceTree = "<group>";
